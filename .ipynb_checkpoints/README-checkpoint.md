@@ -20,9 +20,7 @@ The results are visualized in a composite figure where each subplot represents a
 - [Assumptions and Comments](#assumptions-and-comments)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Code Explanation](#code-explanation)
-- [Conclusion](#conclusion)
 - [License](#license)
 
 ---
