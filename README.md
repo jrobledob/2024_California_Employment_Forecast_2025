@@ -141,7 +141,7 @@ Imports all required libraries for data manipulation, visualization, and modelin
 
 ### 2. Read and Process the Dataset
 
-- Reads the CSV file into a pandas DataFrame.
+- Reads the CSV file into a pandas DataFrame. The data sets were obtained from: [DOWNLOAD!!](https://labormarketinfo.edd.ca.gov/data/ca-agriculture.html)
 - Transposes the DataFrame to have dates as rows and categories as columns.
 - Converts the index to datetime objects.
 - Cleans the data by removing commas and converting strings to numeric values.
